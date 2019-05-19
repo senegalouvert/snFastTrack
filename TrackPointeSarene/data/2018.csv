@@ -1,0 +1,92 @@
+Date,Départ,Arrivée,Durée,Numéro ,Origine,Pays Origine,Ville Origine,Destination,Pays Destination,Ville Destination
+2018/12/21,18:20 UTC,18:42 UTC,22 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/12/20,00:01 UTC,00:42 UTC,40 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/12/16,13:51 UTC,16:19 UTC,2 h 28 m,SENE001,N/A,,,Paris-Orly Airport (LFPO),France,Orly
+2018/12/13,09:16 UTC,09:59 UTC,42 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/12/2,11:44 UTC,12:20 UTC,35 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/12/2,08:09 UTC,08:46 UTC,37 m,LIB001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/11/29,13:17 UTC,13:47 UTC,30 m,LIB001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/11/29,09:27 UTC,10:07 UTC,39 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/11/13,18:12 UTC,23:42 UTC,5 h 30 m,SENE001,Paris-Orly Airport (LFPO),France,Orly,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/11/10,14:25 UTC,19:34 UTC,5 h 9 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Paris-Orly Airport (LFPO),France,Orly
+2018/11/8,20:02 UTC,04:15 (+1) UTC,8 h 12 m,SENE001,Grand Central Airport (FAGC),Afrique du Sud,Midrand,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/11/7,12:43 UTC,20:56 UTC,8 h 12 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Rand Airport (FAGM),Afrique du Sud,Germiston
+2018/11/2,09:55 UTC,11:15 UTC,1 h 19 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/30,21:53 UTC,04:26 (+1) UTC,6 h 33 m,SENE001,Berlin-Tegel Airport (EDDT),Allemagne,Berlin,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/29,14:19 UTC,16:06 UTC,1 h 46 m,SENE001,Toulouse-Blagnac Airport (LFBO),France,Toulouse,Berlin-Tegel Airport (EDDT),Allemagne,Berlin
+2018/10/28,10:38 UTC,15:17 UTC,4 h 39 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Toulouse-Blagnac Airport (LFBO),France,Toulouse
+2018/10/24,20:39 UTC,05:58 (+1) UTC,9 h 18 m,SENE001,King Khaled International Airport (OERK),Arabie saoudite,Riyad,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/23,19:45 UTC,03:45 (+1) UTC,7 h 59 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,King Khaled International Airport (OERK),Arabie saoudite,Riyad
+2018/10/18,17:36 UTC,18:05 UTC,28 m,6VONE,Cap Skirring Airport (GOGS),Sénégal,Cap Skirring,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/18,16:03 UTC,16:36 UTC,32 m,SENE001,Diass-Thies Blaise Diagne International Airport (GOBD),Sénégal,Diass,Cap Skirring Airport (GOGS),Sénégal,Cap Skirring
+2018/10/18,13:04 UTC,13:21 UTC,17 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Diass-Thies Blaise Diagne International Airport (GOBD),Sénégal,Diass
+2018/10/13,09:17 UTC,16:21 UTC,7 h 3 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/9,18:20 UTC,02:53 (+1) UTC,8 h 32 m,SENE001,Ministro Pistarini International Airport (SAEZ),Argentine,Buenos Aires,Diass-Thies Blaise Diagne International Airport (GOBD),Sénégal,Diass
+2018/10/7,10:37 UTC,19:52 UTC,9 h 14 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Ministro Pistarini International Airport (SAEZ),Argentine,Buenos Aires
+2018/10/3,07:20 UTC,12:07 UTC,4 h 47 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan
+2018/10/2,17:54 UTC,18:27 UTC,32 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/10/2,08:32 UTC,09:14 UTC,41 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/10/1,13:58 UTC,14:17 UTC,19 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/9/8,06:41 UTC,20:49 UTC,14 h 7 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/8/29,11:54 UTC,16:41 UTC,4 h 47 m,6VONE,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/8/28,14:07 UTC,14:25 UTC,18 m,6VONE,Toulouse-Blagnac Airport (LFBO),France,Toulouse,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan
+2018/8/28,11:47 UTC,12:20 UTC,32 m,6VONE,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan,Toulouse-Blagnac Airport (LFBO),France,Toulouse
+2018/8/1,16:36 UTC,17:23 UTC,46 m,6VONE,Paris-Orly Airport (LFPO),France,Orly,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan
+2018/8/1,10:28 UTC,15:47 UTC,5 h 19 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Paris-Orly Airport (LFPO),France,Orly
+2018/8/1,00:00 UTC,00:11 UTC,11 m,SENE001,Diass-Thies Blaise Diagne International Airport (GOBD),Sénégal,Diass,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/7/31,22:42 UTC,23:08 UTC,25 m,SENE001,N/A,,,Diass-Thies Blaise Diagne International Airport (GOBD),Sénégal,Diass
+2018/7/26,00:13 UTC,08:18 UTC,8 h 5 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,OR Tambo International Airport (FAOR),Afrique du Sud,Johannesbourg
+2018/7/15,18:09 UTC,01:39 (+1) UTC,7 h 30 m,N6VONE,John F Kennedy International Airport (KJFK),États-Unis,New York,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/7/15,15:10 UTC,15:41 UTC,31 m,N6VONE,Stewart International Airport (KSWF),États-Unis,Newburgh,John F Kennedy International Airport (KJFK),États-Unis,New York
+2018/7/10,00:59 UTC,01:24 UTC,25 m,N6VONE,John F Kennedy International Airport (KJFK),États-Unis,New York,Dutchess County Airport (KPOU),États-Unis,Wappinger
+2018/7/9,14:46 UTC,22:18 UTC,7 h 32 m,N6VONE,N/A,,,John F Kennedy International Airport (KJFK),États-Unis,New York
+2018/7/2,20:05 UTC,20:37 UTC,32 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/7/2,14:39 UTC,15:04 UTC,25 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/6/29,19:52 UTC,01:16 (+1) UTC,5 h 24 m,6VONE,Ibn Batouta Airport (GMTT),Maroc,Tanger,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/6/29,10:30 UTC,15:40 UTC,5 h 10 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Ibn Batouta Airport (GMTT),Maroc,Tanger
+2018/6/21,10:09 UTC,20:04 UTC,9 h 55 m,SENE001,Vnukovo International Airport (UUWW),Russie,Moscou,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/6/18,00:16 UTC,08:15 UTC,7 h 59 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Vnukovo International Airport (UUWW),Russie,Moscou
+2018/6/10,16:28 UTC,23:14 UTC,6 h 45 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/6/1,16:53 UTC,17:27 UTC,33 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/5/31,14:42 UTC,15:15 UTC,32 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/5/18,13:30 UTC,18:28 UTC,4 h 57 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/5/12,17:36 UTC,18:18 UTC,42 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/5/12,08:35 UTC,09:10 UTC,35 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/4/29,20:08 UTC,20:51 UTC,43 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/4/28,11:19 UTC,11:56 UTC,37 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/4/25,17:48 UTC,18:34 UTC,45 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/4/25,14:06 UTC,15:08 UTC,1 h 2 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Praia International Airport (GVNP),Cap-Vert,Praia
+2018/4/21,12:59 UTC,18:55 UTC,5 h 55 m,SENE001,Paris-Orly Airport (LFPO),France,Orly,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/4/17,09:46 UTC,14:56 UTC,5 h 10 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Paris-Orly Airport (LFPO),France,Orly
+2018/4/14,19:49 UTC,20:30 UTC,41 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/4/13,14:23 UTC,15:00 UTC,36 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/3/27,22:53 UTC,23:40 UTC,47 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/3/26,22:24 UTC,23:07 UTC,43 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/3/14,18:42 UTC,19:14 UTC,32 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/3/14,07:47 UTC,08:08 UTC,20 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/3/13,18:26 UTC,18:49 UTC,22 m,SENE001,Banjul International Airport (GBYD),Gambie,Banjul,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/3/12,17:14 UTC,17:38 UTC,23 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Banjul International Airport (GBYD),Gambie,Banjul
+2018/3/2,14:20 UTC,19:30 UTC,5 h 9 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/3/1,02:56 UTC,07:08 UTC,4 h 12 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/2/20,19:21 UTC,19:45 UTC,24 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/2/15,11:08 UTC,11:53 UTC,44 m,LIBE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/2/15,06:05 UTC,06:43 UTC,38 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/2/11,15:46 UTC,16:19 UTC,32 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/2/11,14:08 UTC,14:30 UTC,21 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/2/9,19:05 UTC,19:39 UTC,33 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/2/3,14:19 UTC,14:42 UTC,22 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/30,18:59 UTC,19:33 UTC,34 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/23,15:27 UTC,15:52 UTC,25 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/23,09:39 UTC,09:54 UTC,15 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/1/22,15:55 UTC,16:36 UTC,40 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/22,07:22 UTC,08:03 UTC,40 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/1/21,20:48 UTC,21:22 UTC,34 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/21,18:13 UTC,18:36 UTC,23 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/1/20,16:18 UTC,16:50 UTC,32 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/20,14:28 UTC,14:50 UTC,22 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2018/1/19,12:59 UTC,17:44 UTC,4 h 44 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/18,16:56 UTC,17:11 UTC,15 m,6VONE,Toulouse-Blagnac Airport (LFBO),France,Toulouse,N/A,,
+2018/1/18,12:09 UTC,12:33 UTC,24 m,6VONE,N/A,,,Toulouse-Blagnac Airport (LFBO),France,Toulouse
+2018/1/13,11:57 UTC,17:40 UTC,5 h 43 m,6VONE,Paris-Orly Airport (LFPO),France,Orly,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2018/1/11,07:52 UTC,15:47 UTC,7 h 54 m,6VONE,Al Maktoum International Airport (OMDW),Émirats arabes unis,Dubaï,Paris-Orly Airport (LFPO),France,Orly
+2018/1/7,23:46 UTC,08:57 (+1) UTC,9 h 11 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Al Minhad Air Base (OMDM),Émirats arabes unis,Dubai

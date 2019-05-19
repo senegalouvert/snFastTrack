@@ -1,0 +1,16 @@
+Date,Départ,Arrivée,Durée,Numéro ,Origine,Pays Origine,Ville Origine,Destination,Pays Destination,Ville Destination
+2019/5/18,12:10 UTC,17:47 UTC,5 h 37 m,SENE001,Charles de Gaulle International Airport (LFPG),France,Roissy-en-France,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/5/14,12:20 UTC,17:47 UTC,5 h 26 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Charles de Gaulle International Airport (LFPG),France,Roissy-en-France
+2019/5/3,19:51 UTC,03:41 (+1) UTC,7 h 50 m,SENE001,Sabiha Gökçen International Airport (LTFJ),Turquie,Istanbul,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/5/2,00:14 UTC,06:27 UTC,6 h 13 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Sabiha Gökçen International Airport (LTFJ),Turquie,Istanbul
+2019/4/29,08:30 UTC,09:39 UTC,1 h 9 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/4/19,08:18 UTC,09:14 UTC,56 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/4/12,07:51 UTC,09:12 UTC,1 h 20 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/3/24,16:59 UTC,17:46 UTC,46 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/3/24,10:08 UTC,10:37 UTC,29 m,6VONE,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2019/3/15,06:31 UTC,19:37 UTC,13 h 6 m,SENE001,Abu Dhabi International Airport (OMAA),Émirats arabes unis,Abou Dabi,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/3/13,00:07 UTC,08:05 UTC,7 h 58 m,SENE001,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar,N/A,,
+2019/3/18,20:49 UTC,21:36 UTC,46 m,6VONE,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/2/22,13:41 UTC,18:26 UTC,4 h 44 m,6VONE,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
+2019/1/8,04:42 UTC,06:52 UTC,2 h 10 m,6VONE,N/A,,,Perpignan-Rivesaltes (Llabanère) Airport (LFMP),France,Perpignan
+2019/1/5,20:37 UTC,21:05 UTC,28 m,SENE001,N/A,,,Léopold Sédar Senghor International Airport (GOOY),Sénégal,Dakar
